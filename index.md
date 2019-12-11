@@ -8,7 +8,7 @@
       <p><b>路途很长，还需努力~</b></p>
     </td>
     <td width="25%">
-      <img src="/preview.jpg" width="120%">      
+      <img src="/preview.jpg" width="70%">      
     </td>
   </tr>
 </table>
