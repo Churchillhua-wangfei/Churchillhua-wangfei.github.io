@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Churchillhua-wangfei/) to maintain and preview the content for your website in Markdown files.
+You can click use the [user:Churchillhua-wangfei](https://github.com/Churchillhua-wangfei/) 
 
 
 <table border="0">
