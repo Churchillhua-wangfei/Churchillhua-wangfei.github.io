@@ -8,7 +8,7 @@
       <p><b>地址：长沙市雨花区香樟路22号</b></p>
     </td>
     <td width="25%">
-      <img src="/preview.jpg" width="100%">      
+      <img src="/preview.jpg" width="120%">      
     </td>
   </tr>
 </table>
