@@ -1,7 +1,7 @@
-## 欢迎光临，青青子佩的主页
+## Welcome to GitHub Pages
 
-这是传送门 [editor on GitHub](https://github.com/Churchillhua-wangfei) 
-点击这个网址访问我的主页
+You can use the [editor on GitHub](https://github.com/Churchillhua-wangfei/) to maintain and preview the content for your website in Markdown files.
+
 
 <table border="0">
   <tr>
